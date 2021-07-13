@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'eudl-ukgi-predictiveanalytics-flask-dev-wapp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d61d66237e2b4ec19ff15d9913964700 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ce9c98a28cb04b779be2ee728fcac70d }}
